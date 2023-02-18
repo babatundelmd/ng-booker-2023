@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "author": "Jake Tapper",
+      "country": "Andorra",
+      "language": "American",
+      "pages": 900,
+      "title": "Heliish Good hell",
+      "year": "9000",
+      "id": 10
+    },
+    {
+      "author": "Jake Tapper",
+      "country": "Angola",
+      "language": "English",
+      "pages": 800,
+      "title": "Hellish",
+      "year": "2030",
+      "id": 11
+    },
+    {
+      "author": "Victoria Tosin",
+      "country": "Chile",
+      "language": "English",
+      "pages": 400,
+      "title": "Managing Your Choleric Husband: The Christian Perspective",
+      "year": 2025,
+      "id": 12
+    },
+    {
+      "author": "Jake",
+      "country": "Nigeria",
+      "language": "English",
+      "pages": 300,
+      "title": "Captain America is Trash",
+      "year": 9030,
+      "id": 13
+    }
+  ],
+  "lend": [
+    {
+      "id": 1,
+      "name": "john",
+      "bookTitle": "My book",
+      "bookAuthor": "Babatunde",
+      "lendingDate": "string",
+      "returnDate": "string"
+    },
+    {
+      "name": "Babatunde",
+      "bookTitle": "Ghost of Winterfell",
+      "bookAuthor": "Babatunde",
+      "lendingDate": "2021-04-23",
+      "returnDate": "2021-04-30",
+      "id": 2
+    },
+    {
+      "name": "James Ayotunde",
+      "bookTitle": "Harry Potter",
+      "bookAuthor": "Sanjeep Patel",
+      "lendingDate": "2023-02-15",
+      "returnDate": "2023-03-05",
+      "id": 3
+    }
+  ]
+}
